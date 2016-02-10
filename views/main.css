@@ -1,0 +1,36 @@
+
+   	body
+   	{
+   		background-image: url(back4.jpg);
+      background-size:600px;
+   		
+   		background-repeat: no-repeat;
+   	}
+   	.container
+   	{
+   		
+   	}
+      .size
+      {
+        background-color:rgb(152,152,152);
+        color:white;
+        width:600px;
+        height:600px;
+
+      }
+      h3
+      {
+      	color : green;
+      	text-decoration: underline;
+
+      }
+      .btn-xlarge {
+
+      	color: green;
+    padding: 10px 10px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    }
